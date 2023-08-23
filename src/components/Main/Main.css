@@ -1,0 +1,11 @@
+.main {
+
+    padding: 2rem;
+}
+
+.main p {
+    margin-bottom: 2rem;
+    font-size: 35px;
+    width: 550px;
+    text-align: start;
+}
