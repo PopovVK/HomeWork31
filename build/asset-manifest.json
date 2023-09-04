@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/HomeWork31/static/css/main.d8d5e417.css",
+    "main.js": "/HomeWork31/static/js/main.051efd92.js",
+    "static/media/logo.png": "/HomeWork31/static/media/logo.f4e4cd1601ce83ae3aea.png",
+    "index.html": "/HomeWork31/index.html",
+    "main.d8d5e417.css.map": "/HomeWork31/static/css/main.d8d5e417.css.map",
+    "main.051efd92.js.map": "/HomeWork31/static/js/main.051efd92.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d8d5e417.css",
+    "static/js/main.051efd92.js"
+  ]
+}
