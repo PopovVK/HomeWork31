@@ -2,3 +2,18 @@
 .app {
     text-align: center;
 }
+.Material {
+    margin: 30px;
+    font-size: 50px;
+}
+
+.Contact {
+    margin: 30px;
+    font-size: 30px;
+
+}
+
+.About {
+    margin: 30px;
+    font-size: 30px;
+}
